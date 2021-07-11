@@ -1,6 +1,7 @@
 # stepin-miniproject
 
 
-https://www.code-inspector.com/project/24948/score/svg
+[![Code Grade](https://www.code-inspector.com/project/24948/status/svg)](https://frontend.code-inspector.com/project/24948/dashboard)
 
-https://www.code-inspector.com/project/24948/status/svg
+[![Code Grade](https://www.code-inspector.com/project/24948/score/svg)](https://frontend.code-inspector.com/project/24948/dashboard)
+
